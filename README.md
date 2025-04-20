@@ -8,7 +8,7 @@ Welcome to my GitHub. After 20+ years in airport operations, I’ve decided to t
 
 I combine operational experience from highly regulated environments with newly acquired technical skills.  
 I work with Python, SQL, R, and BI tools to make data more readable, useful, and human.  
-I believe clarity is power — and that good questions matter more than flashy dashboards.
+I believe clarity is power and that good questions matter more than flashy dashboards.
 
 Currently focused on real-world projects that mix analysis, culture, and storytelling.
 
