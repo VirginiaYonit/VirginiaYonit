@@ -24,12 +24,13 @@ I'm currently working on real-world projects that blend analysis, culture, and s
 
 ### Selected Projects
 
+- **[`Designed for Desire`](https://github.com/VirginiaYonit/Designed-for-Desire)** – A Cultural and Data-Driven Journey Through Sex Toy Evolution 
 - **[`BLQ Airport Dashboard`](https://github.com/VirginiaYonit/BLQ-Dashboard)** – Visualizing delays and operational KPIs  
 - **[`Bologna Airport Operational Analysis`](https://github.com/VirginiaYonit/Bologna_Airport_Operational_Analysis)** – Full workflow in Python  
 - **[`Wine Data Analysis`](https://github.com/VirginiaYonit/wine_data_analysis)** – Comparative analysis in R & Python  
 - **[`Cyclistic Case Study`](https://github.com/VirginiaYonit/Cylistic-Case-Study)** – Exploratory data analysis + regression 
  
-- **Coming soon:** A visual study on eroticism, consumption, and language through data storytelling
+- **Coming soon:** A visual study on immigration in Italy
 
 ---
 
