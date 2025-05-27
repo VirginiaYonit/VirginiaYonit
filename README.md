@@ -43,6 +43,6 @@ Based in the beautiful Apennines near Bologna, Italy
 
 ---
 
-*This is not just a career shift — it's a remix of everything I've learned about people, structure, and meaning. Thanks for visiting!*
+*This is not just a career shift, it's a remix of everything I've learned about people, structure, and meaning. Thanks for visiting!*
 
 
