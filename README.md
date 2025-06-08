@@ -24,12 +24,13 @@ I'm currently working on real-world projects that blend analysis, culture, and s
 
 ### Selected Projects
 
+- **[Falcon-9-First-Stage-Landing-Prediction](https://github.com/VirginiaYonit/Falcon-9-First-Stage-Landing-Prediction)**
+- **[`Agent Meme`](https://github.com/VirginiaYonit/Agent-Meme)** – Because crafting a clever LinkedIn comment shouldn’t take longer than reading the post
 - **[`Designed for Desire`](https://github.com/VirginiaYonit/Designed-for-Desire)** – A Cultural and Data-Driven Journey Through Sex Toy Evolution 
 - **[`BLQ Airport Dashboard`](https://github.com/VirginiaYonit/BLQ-Dashboard)** – Visualizing delays and operational KPIs  
 - **[`Bologna Airport Operational Analysis`](https://github.com/VirginiaYonit/Bologna_Airport_Operational_Analysis)** – Full workflow in Python  
 - **[`Wine Data Analysis`](https://github.com/VirginiaYonit/wine_data_analysis)** – Comparative analysis in R & Python  
-- **[`Agent Meme`](https://github.com/VirginiaYonit/Agent-Meme)** – Because crafting a clever LinkedIn comment shouldn’t take longer than reading the post
- 
+
 - **Coming soon:** A visual study on immigration in Italy
 
 ---
