@@ -16,7 +16,7 @@ I'm currently working on real-world projects that blend analysis, culture, and s
 ### Tools I’m working with
 
 - **Languages:** Python · R · SQL  
-- **Libraries & tools:** Pandas · Matplotlib · Seaborn · Folium  
+- **Libraries & tools:** Pandas · Matplotlib · Seaborn · Folium  · Scikit-learn   
 - **BI & workflow:** Tableau · BigQuery · Looker Studio · Excel · Google Sheets  
 - **Extras:** Prompt Engineering · Generative AI · APIs · Data Cleaning · Data Visualization
 
