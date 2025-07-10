@@ -6,10 +6,9 @@ Welcome to my GitHub. After 20+ years in airport operations, I have transformed 
 
 ### Who I am
 
-I bring operational expertise from highly regulated environments, combined with newly acquired technical skills.
-I work with Python, SQL, R, and BI tools to make data more readable, useful, and human-centered.
-I believe clarity is power and that the right questions matter more than flashy dashboards.
-I'm currently working on real-world projects that blend analysis, culture, and storytelling.
+Experienced data analyst with a background in regulated operational environments and a growing focus on project coordination and business impact.
+Daily practice in Python, R, SQL, and BI tools applied to real-world data problems — from cleaning and analysis to machine learning and AI workflows.
+Currently training as a Project Manager (IBM) and advancing in AI through EITCI European certification. Passionate about making complexity manageable through structure, clarity, and collaboration.
 
 ---
 
