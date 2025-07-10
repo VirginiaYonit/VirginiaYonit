@@ -9,6 +9,7 @@ Welcome to my GitHub. After 20+ years in airport operations, I have transformed 
 I approach data with a practical mindset, shaped by years in complex operations and I’m now exploring how structure and coordination can turn insight into action.
 Daily practice in Python, R, SQL, and BI tools applied to real-world data problems from cleaning and analysis to machine learning and AI workflows.
 Currently training as a Project Manager (IBM) and advancing in AI through EITCI European certification. 
+
 ---
 
 ### Tools I’m working with
