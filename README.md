@@ -6,7 +6,7 @@ Welcome to my GitHub. After 20+ years in airport operations, I have transformed 
 
 ### Who I am
 
-I approach data with a practical mindset, shaped by years in complex operations, exploring how structure and coordination can turn insight into action.
+Shaped by years in complex operations, I approach data with a practical mindset, exploring how structure and coordination can turn insight into action.
 Daily practice in Python, R, SQL, and BI tools applied to real-world data problems from cleaning and analysis to machine learning and AI workflows.
 Currently training as a Project Manager (IBM) and advancing in AI through EITCI European certification. 
 
