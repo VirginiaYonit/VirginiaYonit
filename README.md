@@ -22,12 +22,11 @@ Currently training as a Project Manager (IBM) and advancing in AI through EITCI 
 ---
 
 ### Selected Projects
-
+- **[Agent Artigiano](https://github.com/VirginiaYonit/Agent_Artigiano)** Agent Artigiano bridges the gap between “AI for big enterprises” and the real needs of artisans and small businesses.
 - **[Falcon-9-First-Stage-Landing-Prediction](https://github.com/VirginiaYonit/Falcon-9-First-Stage-Landing-Prediction)** A ML project to predict whether the Falcon 9 first stage will successfully land after launch
 - **[`Agent Meme`](https://github.com/VirginiaYonit/Agent-Meme)** – An AgentAI because crafting a clever LinkedIn comment shouldn’t take longer than reading the post
 - **[`Designed for Desire`](https://github.com/VirginiaYonit/Designed-for-Desire)** – A Cultural and Data-Driven Journey Through Sex Toy Evolution 
-- **[`BLQ Airport Dashboard`](https://github.com/VirginiaYonit/BLQ-Dashboard)** – Visualizing delays and operational KPIs  
-- **[`Bologna Airport Operational Analysis`](https://github.com/VirginiaYonit/Bologna_Airport_Operational_Analysis)** – Full workflow in Python  
+- **[`Bologna Airport Operational Analysis`](https://github.com/VirginiaYonit/Bologna_Airport_Operational_Analysis)** – Full workflow in Python (look also for the dashboard, 2nd. step of the project) 
 - **[`Wine Data Analysis`](https://github.com/VirginiaYonit/wine_data_analysis)** – Comparative analysis in R & Python  
 
 - **Coming soon:** A visual study on immigration in Italy
