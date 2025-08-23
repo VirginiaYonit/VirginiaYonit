@@ -22,6 +22,7 @@ Currently training as a Project Manager (IBM) and advancing in AI through EITCI 
 ---
 
 ### Selected Projects
+- **[`Meeting Policy Checker`](https://github.com/VirginiaYonit/meeting-policy-checker)** An AI-powered compliance agent, that evaluates meeting content against organizational policies because time is precious, and accuracy is key.
 - **[`Agent Artigiano`](https://github.com/VirginiaYonit/Artigiano-Smart)** Agent Artigiano bridges the gap between “AI for big enterprises” and the real needs of artisans and small businesses.
 - **[`Falcon-9-First-Stage-Landing-Prediction`](https://github.com/VirginiaYonit/Falcon-9-First-Stage-Landing-Prediction)** A ML project to predict whether the Falcon 9 first stage will successfully land after launch
 - **[`Agent Meme`](https://github.com/VirginiaYonit/Agent-Meme)** – An AgentAI because crafting a clever LinkedIn comment shouldn’t take longer than reading the post
