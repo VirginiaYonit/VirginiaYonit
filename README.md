@@ -1,6 +1,10 @@
 ## Hi, I'm Virginia
 
-Welcome to my GitHub. After 20+ years in airport operations, I have transformed a long-standing fascination for structure, people, and communication into a new focus: data analytics, business intelligence, and generative AI.
+Welcome to my GitHub. For 25 years, I developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
+
+Today, I apply that rigor to data. My focus is on Functional Analysis, Requirements Engineering, and
+Compliance-by-Design systems, ensuring that platform capabilities are measurable, reusable, and
+aligned with organizational goals.
 
 ---
 
@@ -8,7 +12,7 @@ Welcome to my GitHub. After 20+ years in airport operations, I have transformed 
 
 Shaped by years in complex operations, I approach data with a practical mindset, exploring how structure and coordination can turn insight into action.
 Daily practice in Python, R, SQL, and BI tools applied to real-world data problems from cleaning and analysis to machine learning and AI workflows.
-Currently training as a Project Manager (IBM) and advancing in AI through EITCI European certification. 
+Currently advancing in AI through EITCI European certification. 
 
 ---
 
