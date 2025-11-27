@@ -1,4 +1,4 @@
-## Ciao, I'm Virginia
+## Hi, I'm Virginia
 
 Welcome to my GitHub. After 20+ years in airport operations, I have transformed a long-standing fascination for structure, people, and communication into a new focus: data analytics, business intelligence, and generative AI.
 
@@ -22,6 +22,7 @@ Currently training as a Project Manager (IBM) and advancing in AI through EITCI 
 ---
 
 ### Selected Projects
+- **[`Lexie`](https://github.com/VirginiaYonit/Lexie)** Agentic AI. Lexie analyzes policy documents (PDF) or free text and compares them to key articles in the GDPR and EU AI Act. It returns a downloadable human-readable PDF report with risk score, violations, citations, and recommendations.
 - **[`Meeting Policy Checker`](https://github.com/VirginiaYonit/meeting-policy-checker)** An AI-powered compliance agent, that evaluates meeting content against organizational policies because time is precious, and accuracy is key.
 - **[`Agent Artigiano`](https://github.com/VirginiaYonit/Artigiano-Smart)** Agent Artigiano bridges the gap between “AI for big enterprises” and the real needs of artisans and small businesses.
 - **[`Falcon-9-First-Stage-Landing-Prediction`](https://github.com/VirginiaYonit/Falcon-9-First-Stage-Landing-Prediction)** A ML project to predict whether the Falcon 9 first stage will successfully land after launch
