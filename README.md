@@ -1,11 +1,5 @@
-## Hi, I'm Virginia Levy Abulafia,
-
-welcome to my GitHub. For 25 years, I developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
-
-Today, I apply that rigor to data. My focus is on Functional Analysis, Requirements Engineering, and
-Compliance-by-Design systems, ensuring that platform capabilities are measurable, reusable, and
-aligned with organizational goals.
-
+Business Analyst & AI Governance Specialist | Functional Analysis, Requirements
+Engineering, Process Optimization
 ---
 
 ### Who I am
@@ -26,6 +20,7 @@ Currently advancing in AI through EITCI European certification.
 ---
 
 ### Selected Projects
+- **['Ori'](https://github.com/VirginiaYonit/ORI-Conversational-BI)** ORI is a Conversational Business Intelligence engine designed to solve a specific and increasingly critical problem: how to safely combine deterministic analytics with generative AI without compromising data integrity, auditability, or decision reliability.
 - **[`Lexie`](https://github.com/VirginiaYonit/Lexie)** Agentic AI. Lexie analyzes policy documents (PDF) or free text and compares them to key articles in the GDPR and EU AI Act. It returns a downloadable human-readable PDF report with risk score, violations, citations, and recommendations.
 - **[`Meeting Policy Checker`](https://github.com/VirginiaYonit/meeting-policy-checker)** An AI-powered compliance agent, that evaluates meeting content against organizational policies because time is precious, and accuracy is key.
 - **[`Agent Artigiano`](https://github.com/VirginiaYonit/Artigiano-Smart)** Agent Artigiano bridges the gap between “AI for big enterprises” and the real needs of artisans and small businesses.
