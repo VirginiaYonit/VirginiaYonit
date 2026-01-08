@@ -1,6 +1,6 @@
-## Hi, I'm Virginia
+## Hi, I'm Virginia Levy Abulafia,
 
-Welcome to my GitHub. For 25 years, I developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
+welcome to my GitHub. For 25 years, I developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
 
 Today, I apply that rigor to data. My focus is on Functional Analysis, Requirements Engineering, and
 Compliance-by-Design systems, ensuring that platform capabilities are measurable, reusable, and
