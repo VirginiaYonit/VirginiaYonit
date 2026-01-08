@@ -4,9 +4,12 @@ Engineering, Process Optimization
 
 ### Who I am
 
-Shaped by years in complex operations, I approach data with a practical mindset, exploring how structure and coordination can turn insight into action.
-Daily practice in Python, R, SQL, and BI tools applied to real-world data problems from cleaning and analysis to machine learning and AI workflows.
-Currently advancing in AI through EITCI European certification. 
+I bring a unique hybrid perspective to Business Intelligence and AI Governance. For 25 years, I
+developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
+
+Today, I apply that rigor to data. My focus is on Functional Analysis, Requirements Engineering, and
+Compliance-by-Design systems, ensuring that platform capabilities are measurable, reusable, and
+aligned with organizational goals.
 
 ---
 
