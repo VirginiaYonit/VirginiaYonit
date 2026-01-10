@@ -5,7 +5,7 @@ Engineering, Process Optimization
 ### Who I am
 
 I bring a unique hybrid perspective to Business Intelligence and AI Governance. For 25 years, I
-developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations).
+developed operational rigor and a structured mindset by leading teams and managing complex, high-stakes systems in highly regulated environments (e.g., airport operations & hôtellerie).
 
 Today, I apply that rigor to data. My focus is on Functional Analysis, Requirements Engineering, and
 Compliance-by-Design systems, ensuring that platform capabilities are measurable, reusable, and
